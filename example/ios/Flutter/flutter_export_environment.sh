@@ -1,7 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=D:\Android\Flutter\package\flutter_tags\example"
+export "FLUTTER_ROOT=C:\Users\T4ULabsAmalMabrouk\fvm\versions\stable"
+export "FLUTTER_APPLICATION_PATH=C:\Users\T4ULabsAmalMabrouk\Desktop\Tags\flutter_tags\example"
+export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"
